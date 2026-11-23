@@ -1,0 +1,2 @@
+# ShadowX
+Official Pubg files 
